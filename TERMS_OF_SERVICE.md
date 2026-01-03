@@ -46,22 +46,35 @@ Your access to and use of the Service is conditioned on Your acceptance of and c
 By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.
 
 
-You represent that you are over the age of 18. The Company does not permit those under 18 to use the Service.
+You represent that you are over the age of 13. The Company does not permit those under 13 to use the Service.
 
 
 Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
 
+## Admin-Only Features
+Only **server administrators** can configure message suffixes or other bot settings. Regular users cannot upload or modify content through the bot.  
 
+For infringement or intellectual property concerns, contact us at: **baattiomar@gmail.com**.
 
+## Purchases & Subscriptions
+- **In-App Purchases:** Premium features may be available for purchase.  
+- **One-Time Payments:** Lifetime premium subscriptions are one-time payments granting permanent access.  
+- **Subscription Plans:** Recurring subscription plans (e.g., 1-month, 3-month) may also be offered.  
+- **Trial Periods:** Trial access may be available for limited features.  
 
+All payments are processed through the applicable platform and are subject to the platform’s payment terms.
 
+## Intellectual Property
+All content, logos, names, visual design, and trademarks associated with MD Segregation Bot are the **exclusive property of the developers**. Users may not copy, reproduce, or use these materials without permission.
 
+## Feedback & Suggestions
+Any feedback, suggestions, or ideas submitted by users may be implemented by the developers **without obligation to provide compensation or credit**.
 
+## Promotions & Giveaways
+The bot **may occasionally run promotions, contests, or sweepstakes**. All such events are subject to specific rules and eligibility requirements, which will be provided separately.
 
-
-
-
-
+## Limitation of Liability
+The bot is provided “as-is.” We **do not guarantee uptime, accuracy, or uninterrupted service**. We are **not responsible** for any misconfigurations, role assignments, or mirrored content in your server. Use the bot at your own risk.
 
 
 
