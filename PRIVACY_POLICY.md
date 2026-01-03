@@ -37,7 +37,7 @@ For the purposes of this Privacy Policy:
 While using Our Service, MD Segregation Bot does **not ask for or collect personal information** such as email addresses, names, or phone numbers.  
 
 However, the bot **automatically records certain actions performed by users** in your server for functional purposes such as:
-- Bot Action Logs
+- Bot Action Logs (which include user's discord ids)
 
 #### Bot Action Logs
 
@@ -77,6 +77,41 @@ The bot does not share action logs with third parties. The server owner is respo
 ### Security of Bot Action Logs
 
 The bot uses commercially reasonable measures to protect action logs. However, no system is completely secure, and the server owner is responsible for managing access to these logs.
+
+### California Privacy Rights (CCPA / CPRA)
+
+If you are a California resident, you have certain rights under the California Consumer Privacy Act (CCPA) as amended by the California Privacy Rights Act (CPRA).  
+
+The bot processes minimal personal information (Discord IDs) solely for functional purposes, such as moderation and enforcement of server rules.  
+
+You have the right to request:
+- Access to the personal information the bot logs about you
+- Deletion of the personal information the bot logs about you
+- Information about the purpose and categories of your logged data
+
+To exercise these rights, please contact the server owner directly, as the server owner controls access to the logs. The bot developers do not have access to these logs.
+
+### California Online Privacy Protection Act (CalOPPA)
+
+Under CalOPPA, California residents have the right to know how their personal information is collected and used.  
+
+MD Segregation Bot does not request or collect emails, names, phone numbers, or messages. The bot logs minimal information (Discord IDs, actions, timestamps) solely to provide its moderation and management features.  
+
+The server owner controls access to these logs. The bot developers do not share this information with third parties.  
+
+The bot does not respond to “Do Not Track” browser signals, as it operates within Discord servers.
+
+### European Union (GDPR) Privacy Rights
+
+If you are a user from the European Union, your Discord ID is considered personal data. The bot processes this data solely for the purposes of moderation and enforcement of server rules.  
+
+You have the following rights under the General Data Protection Regulation (GDPR):
+- The right to access your logged information
+- The right to request correction or deletion of your logged information
+- The right to restrict or object to processing
+- The right to lodge a complaint with a supervisory authority
+
+Please note that the server owner controls access to the logs. The bot developers do not have access to these logs and cannot delete or manage them on your behalf.
 
 ## Children's Privacy
 
