@@ -4,8 +4,8 @@ Official repository containing all resources for the Segregation Bot.
 This bot helps segregated communities interact safely and efficiently.
 
 ## 👤 Authors
-- [**omar._.deen**](https://discord.com/users/1390676704741032056)
-- [**safu.vsc**](https://discord.com/users/871313769723228160)
+- [**omar._.deen**](https://github.com/OmarBaatti)
+- [**safu.vsc**](https://github.com/SafuGit)
 
 ## 📌 Features
 - 🔁 Middleman
