@@ -14,7 +14,7 @@ The words whose initial letters are capitalized have meanings defined under the 
 
 For the purposes of these Terms and Conditions:
 
-- __Application__ means the software program provided by the Company that can be added to Discord servers, named Segregation Bot.
+- __Application__ means the software program provided by the Company that can be added to Discord servers, named MD Segregation Bot.
 - __Application Platform__ means Discord, the platform through which the Application is accessed and used.
 - __Affiliate__ means an entity that controls, is controlled by, or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 - __Country__ refers to:  Italy
