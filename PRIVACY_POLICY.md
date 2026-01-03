@@ -1,1 +1,1 @@
-
+# Segregation Bot – Privacy Policy
