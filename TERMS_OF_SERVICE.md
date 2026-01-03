@@ -14,27 +14,15 @@ The words whose initial letters are capitalized have meanings defined under the 
 
 For the purposes of these Terms and Conditions:
 
-- __Application__ means the software program provided by the Company downloaded by You on any electronic device, named Segregation Bot
-- __Application Store__ means the digital distribution service operated and developed by Apple Inc. (Apple App Store) or Google Inc. (Google Play Store) in which the Application has been downloaded.
+- __Application__ means the software program provided by the Company that can be added to Discord servers, named Segregation Bot.
+- __Application Platform__ means Discord, the platform through which the Application is accessed and used.
 - __Affiliate__ means an entity that controls, is controlled by, or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
-
 - __Country__ refers to:  Italy
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Segregation Bot.
-
+- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Muslim Devs.
 - __Device__ means any device that can access the Service such as a computer, a cell phone or a digital tablet.
-
-
-
-
-
-
-
 - __Service__ refers to the Application.
-
-
-- __Terms and Conditions__ (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement has been created with the help of the [Terms and Conditions Generator](https://www.termsfeed.com/terms-conditions-generator/).
-- __Third-party Social Media Service__ means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
-
+- __Terms and Conditions__ (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service.
+- __Third-party Services__ means any services, content, or data provided by a third party that may be displayed, included, or integrated by the Service.
 - __You__ means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
 ## Acknowledgment
@@ -76,12 +64,6 @@ The bot **may occasionally run promotions, contests, or sweepstakes**. All such 
 ## Limitation of Liability
 The bot is provided “as-is.” We **do not guarantee uptime, accuracy, or uninterrupted service**. We are **not responsible** for any misconfigurations, role assignments, or mirrored content in your server. Use the bot at your own risk.
 
-
-
-
-
-
-
 ## Links to Other Websites
 
 Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.
@@ -104,6 +86,16 @@ Notwithstanding any damages that You might incur, the entire liability of the Co
 To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
 
 Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.
+
+**Use at Your Own Risk:**  
+MD Segregation Bot is provided **“as-is”** and **“as available”**. By using the bot, you acknowledge and agree that you do so at your **own risk**. The Company is not responsible or liable for:
+
+- Any malfunction, error, or downtime of the bot  
+- Incorrect, delayed, or misrouted messages sent by the bot  
+- Misconfigured role assignments, mirrors, or automated actions  
+- Any loss, damage, or other consequences resulting from the use of the bot  
+
+The Company does **not guarantee** that the bot will operate continuously, produce intended results, or be compatible with all Discord servers, roles, or channels.
 
 ## "AS IS" and "AS AVAILABLE" Disclaimer
 
