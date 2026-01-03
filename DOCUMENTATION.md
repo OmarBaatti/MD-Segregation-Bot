@@ -1,0 +1,1 @@
+# Segregation Bot – Documentation
