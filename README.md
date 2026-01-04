@@ -6,7 +6,7 @@ This bot helps segregated communities interact safely and efficiently.
 ## 👤 Authors
 - [**omar._.deen**](https://github.com/OmarBaatti)
 - [**safu.vsc**](https://github.com/SafuGit)
-- 
+
 **Links:** [Documentation](./DOCUMENTATION.md) / [TOS](./TERMS_OF_SERVICE.md) / [Privacy Policy](./PRIVACY_POLICY.md)
 
 ## Features
